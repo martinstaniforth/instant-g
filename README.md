@@ -1,4 +1,4 @@
-TBAdvertise
+intant-g
 ===========
 
-Advert for tennisbetting365.com
+redirect to tennisbetting365.com
